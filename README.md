@@ -48,3 +48,4 @@ To add a new exercise:
 3. When prompted, enter the name of the new exercise in "camelCase" syntax.
 
 After entering an exercise name, a new directory with the necessary files will be created. You will then need to update the `README.md` and `spec.js` files as well as the files in the `solution` directory of the new exercise.
+# javascript-exercises
